@@ -4,7 +4,7 @@ I'm Ian, a full-stack software engineer with proficiency in Javascript and Types
 
 Here's [an app](https://github.com/MagReda16/slice) that I've been working on recently, and you can try it out [here](https://slice-henna.vercel.app/) 🍜
 
-You can reach me at [ian.tang@protonmail.com](ian.tang@protonmail.com) or through [LinkedIn](https://www.linkedin.com/in/itang/).
+You can reach me at [ian.tang@protonmail.com](mailto:ian.tang@protonmail.com) or through [LinkedIn](https://www.linkedin.com/in/itang/).
 
 
 <!--
