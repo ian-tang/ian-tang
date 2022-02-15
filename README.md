@@ -2,7 +2,7 @@
 
 I'm Ian, a full-stack software engineer with proficiency in Javascript and Typescript, Next.js, Express, React, MongoDB, SQL, and Git. I'm a curious individual who strives to dig deep to truly understand the way things work. I love learning and engaging in challenging projects. Avid cyclist 🚴‍♂️ and amateur machinist 👨‍🏭 in my free time.
 
-Here's [an app](https://slice-henna.vercel.app/) that I've been working on recently 🍜
+Here's [an app](https://github.com/MagReda16/slice) that I've been working on recently and you try it out [here](https://slice-henna.vercel.app/) 🍜
 
 [LinkedIn](https://www.linkedin.com/in/itang/)
 
